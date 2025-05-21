@@ -5,7 +5,30 @@ from src.main import sent_model, act_model
 
 app = Flask(__name__)
 
+# Load your pre-trained models (sentiment_model, actionability_model)
 
+@app.route('/')
+def home():
+    return render_template('index.html')
+
+@app.route('/analyze')
+def analyze():
+    # Get the review from the query parameter
+    review = request.args.get('review', '')
+
+    if not review:
+        return "No review provided", 400
+
+    # Use the models to make predictions
+    sentiment_prediction = sentiment_model.predict([review])[0]
+    actionability_prediction = actionability_model.predict([review])[0]
+
+    # Map predictions to readable labels
+    sentiment_label = "Positive" if sentiment_prediction == 1 else "Negative"
+    actionability_label = f"{actionability_prediction:.2f}"  # Assuming it's a score
+
+    # Pass predictions to the template
+    return render_template('result.html', review=review, sentiment=sentiment_label, actionability=actionability_label)
 
 def tokenize_and_embed(text_data):
     """
