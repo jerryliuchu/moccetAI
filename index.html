@@ -3,35 +3,70 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Data Analysis Plots</title>
+    <title>Feedback Analyzer</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            margin: 20px;
             text-align: center;
+            margin: 20px;
         }
-        img {
-            max-width: 100%;
-            height: auto;
-            margin: 20px 0;
-            border: 2px solid #ddd;
+        #results {
+            margin-top: 20px;
+            padding: 15px;
+            border: 1px solid #ddd;
             border-radius: 8px;
             box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+            display: none;
+        }
+        textarea {
+            width: 80%;
+            height: 100px;
+            margin: 10px 0;
+        }
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            cursor: pointer;
         }
     </style>
+    <script>
+        async function analyzeFeedback() {
+            const review = document.getElementById("review").value;
+
+            if (!review) {
+                alert("Please enter a review!");
+                return;
+            }
+
+            const response = await fetch("/analyze", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ review })
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                document.getElementById("sentiment").innerText = `Sentiment: ${data.sentiment}`;
+                document.getElementById("actionability").innerText = `Actionability Score: ${data.actionability_score}`;
+                document.getElementById("topic").innerText = `Topic: ${data.topic}`;
+                document.getElementById("results").style.display = "block";
+            } else {
+                alert("An error occurred while analyzing the feedback.");
+            }
+        }
+    </script>
 </head>
 <body>
-    <h1>Data Analysis Plots</h1>
-    <p>Below are visualizations from the analyzed data:</p>
+    <h1>Feedback Analyzer</h1>
+    <textarea id="review" placeholder="Enter your review here..."></textarea><br>
+    <button onclick="analyzeFeedback()">Analyze</button>
 
-    <h2>Line Plot Example</h2>
-    <img src="static/images/line_plot.png" alt="Line Plot">
-
-    <h2>Bar Chart Example</h2>
-    <img src="static/images/bar_chart.png" alt="Bar Chart">
-
-    <footer>
-        <p>Generated with Matplotlib</p>
-    </footer>
+    <div id="results">
+        <p id="sentiment"></p>
+        <p id="actionability"></p>
+        <p id="topic"></p>
+    </div>
 </body>
 </html>
