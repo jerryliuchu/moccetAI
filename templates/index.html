@@ -3,19 +3,41 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Sentiment Analysis</title>
+    <title>Feedback Analyzer</title>
     <script>
-        function submitReview() {
-            const review = document.getElementById("reviewInput").value;
+        async function submitFeedback() {
+            const feedbackText = document.getElementById("feedback").value;
 
-            // Redirect to the analysis page with the review as a query parameter
-            window.location.href = `/analyze?review=${encodeURIComponent(review)}`;
+            if (!feedbackText) {
+                alert("Please enter some feedback!");
+                return;
+            }
+
+            const response = await fetch("/predict", {
+                method: "POST",
+                headers: {
+                    "Content-Type": "application/json"
+                },
+                body: JSON.stringify({ text: feedbackText })
+            });
+
+            if (response.ok) {
+                const data = await response.json();
+                document.getElementById("sentiment-result").innerText = `Sentiment: ${data.sentiment}`;
+                document.getElementById("actionability-result").innerText = `Actionability Score: ${data.actionability_score}`;
+            } else {
+                alert("Error analyzing feedback.");
+            }
         }
     </script>
 </head>
 <body>
-    <h1>Enter a Review</h1>
-    <input type="text" id="reviewInput" placeholder="Type your review here">
-    <button onclick="submitReview()">Submit</button>
+    <h1>Feedback Analyzer</h1>
+    <textarea id="feedback" placeholder="Enter feedback here..." rows="5" cols="50"></textarea><br>
+    <button onclick="submitFeedback()">Analyze Feedback</button>
+    <div id="results">
+        <p id="sentiment-result"></p>
+        <p id="actionability-result"></p>
+    </div>
 </body>
 </html>
