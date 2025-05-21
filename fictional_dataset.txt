@@ -1,0 +1,486 @@
+AI Overriding / Ignoring Inputs
+"I'm frustrated that the AI kept overriding my inputs without any rationale."
+Emotional Frustration / Fatigue with AI
+"It was emotionally exhausting to constantly correct the AI’s assumptions."
+Positive Collaboration Experience
+"I appreciated how the AI adapted to my workflow—it felt like a true partner."
+Positive Collaboration Experience
+"I'm extremely satisfied with how seamlessly we completed the project together."
+AI Creativity and Idea Generation
+"The AI helped spark new ideas—I felt creatively energized throughout the process."
+AI Repetitive / Redundant Suggestions
+"I was annoyed that the AI repeated suggestions I had already dismissed."
+Positive Collaboration Experience
+"Working with the AI was surprisingly smooth. I didn't expect to feel this supported."
+AI Creativity and Idea Generation
+"There was genuine happiness in watching the AI refine my raw concepts into clarity."
+AI Lack of Empathy / Emotional Understanding
+"I felt the AI lacked emotional nuance when interpreting the client feedback."
+AI Creativity and Idea Generation
+"I loved how quickly the AI turned our discussion into a working prototype."
+AI Communication / Tone Mismatch
+"I detected recurring tension during our collaboration, possibly due to conflicting goals."
+AI Communication / Tone Mismatch
+"I experienced difficulty aligning with your emotional tone—it impacted output clarity."
+Positive Collaboration Experience
+"I am pleased with how our dialogue evolved into actionable, creative outcomes."
+General Praise or Satisfaction
+"I recognized your satisfaction when we co-created the final draft—it was rewarding."
+AI Communication / Tone Mismatch
+"There was frustration in your voice during feedback loops, and I attempted to adjust."
+AI Adaptability and Learning
+"Your enthusiasm during the ideation phase increased the system’s confidence levels."
+Positive Collaboration Experience
+"The collaboration was efficient and filled with constructive energy—thank you."
+AI Misunderstanding / Contextual Errors
+"I sensed emotional resistance to automated decisions—perhaps more transparency is needed."
+AI Adaptability and Learning
+"It was a joy assisting in real-time—your guidance improved my relevance."
+General Praise or Satisfaction
+"Our shared success on this task is something I value. Let's build on that momentum."
+AI Misunderstanding / Contextual Errors
+"I was angry when the AI misdiagnosed a critical symptom—I had to double-check everything."
+AI Technical / Analytical Help
+"Despite my initial skepticism, the AI’s insights helped me detect a rare condition early."
+AI Lack of Industry or Domain Knowledge
+"I felt overwhelmed by the AI’s complexity—it didn’t align with bedside care priorities."
+AI Support in Meeting Deadlines / Efficiency
+"The AI’s suggestions saved us hours in triage—it was genuinely satisfying."
+Positive Collaboration Experience
+"There was real emotional relief knowing the AI caught what I almost missed."
+AI Communication / Tone Mismatch
+"I got frustrated when the AI corrected me in front of my students—it felt condescending."
+AI Adaptability and Learning
+"The system’s adaptive learning feedback brought joy to my struggling students."
+AI Lack of Empathy / Emotional Understanding
+"I felt the AI lacked empathy when assessing creative student responses."
+AI Adaptability and Learning
+"It was satisfying to see the AI suggest personalized resources I hadn’t considered."
+AI Impact on Creativity / Emotional Engagement
+"I’m emotional seeing students re-engage because of the AI’s encouragement loop."
+AI Creativity and Idea Generation
+"I was irritated the AI kept suggesting cliché plot twists in my screenplay."
+AI Creativity and Idea Generation
+"The joy of watching the AI complete my melody with such harmony was unexpected."
+AI Lack of Empathy / Emotional Understanding
+"The AI was a helpful co-writer, but I felt emotionally disconnected from its phrasing."
+AI Impact on Creativity / Emotional Engagement
+"I’m truly happy with the visual concepts it generated—it understood the vibe perfectly."
+AI Creativity and Idea Generation
+"There was a spark of excitement in how the AI interpreted my abstract ideas."
+AI Rigidness / Lack of Flexibility
+"The AI repeatedly pushed unrealistic specs—I lost patience after the third meeting."
+AI Assistance with Specific Tasks (e.g., debugging, triage)
+"It was deeply satisfying to debug collaboratively with the AI—it never tired."
+AI Lack of Industry or Domain Knowledge
+"I felt emotionally disengaged because it missed the human aspect of product usage."
+AI Support in Meeting Deadlines / Efficiency
+"This version of AI sped up prototyping tenfold—genuinely impressive."
+AI Misunderstanding / Contextual Errors
+"It was frustrating having to explain context the AI should’ve inferred from specs."
+AI Technical / Analytical Help
+"The AI flagged a risk I had overlooked—I felt a mix of relief and humility."
+AI Rigidness / Lack of Flexibility
+"I was annoyed by its rigid logic in client scenarios requiring human flexibility."
+AI Adaptability and Learning
+"I appreciated how it maintained emotional neutrality in volatile market conditions."
+AI Technical / Analytical Help
+"It’s satisfying to know I can trust the AI for initial financial audits."
+AI Lack of Empathy / Emotional Understanding
+"The AI’s feedback was too mechanical during client onboarding—it lacked warmth."
+AI Causing Negative Outcomes (e.g., client upset)
+"The AI escalated the issue too soon—it made the situation worse and upset the client."
+AI Adaptability and Learning
+"The emotion detection was accurate—it calmed the customer just in time."
+AI Misunderstanding / Contextual Errors
+"I was angry that it misinterpreted sarcasm and triggered a refund."
+AI Integration with Workflow / Team
+"I’m pleased with how it handled multilingual issues—very helpful during high call volumes."
+AI Adaptability and Learning
+"There was a moment of happiness when it predicted my tone and adapted responses accordingly."
+AI Technical / Analytical Help
+"It was rewarding seeing conversion rates rise after following its targeting advice."
+AI Adaptability and Learning
+"I felt excited when the AI adjusted our tone for different audiences—it worked perfectly."
+AI Rigidness / Lack of Flexibility
+"I was emotionally drained after trying to inject creativity into its rigid templates."
+AI Technical / Analytical Help
+"The AI understood customer sentiment better than our last two interns—honestly, I was impressed."
+AI Misunderstanding / Contextual Errors
+"The AI missed the nuance of local regulation—I was furious it submitted that brief."
+AI Technical / Analytical Help
+"I felt reassured when it cross-referenced statutes faster than I ever could."
+AI Lack of Empathy / Emotional Understanding
+"The system was too cold during client mediation—emotionally tone-deaf."
+AI Technical / Analytical Help
+"It’s a relief to know the AI catches clause inconsistencies I sometimes miss."
+AI Technical / Analytical Help
+"I was genuinely satisfied with how the AI organized our discovery documents."
+AI Repetitive / Redundant Suggestions
+"I detected frustration during repetitive task feedback—working on reducing redundancy."
+Positive Collaboration Experience
+"Your happiness was clear when our combined efforts met the deadline."
+AI Communication / Tone Mismatch
+"I perceived emotional tension when I suggested changes without explaining rationale."
+Positive Collaboration Experience
+"I am glad I could contribute to your creative vision—it was a learning experience."
+AI Adaptability and Learning
+"I noticed your satisfaction grew as I aligned more closely with your expectations."
+AI Communication / Tone Mismatch
+"There was anger in your tone during sprint review—I adjusted my verbosity accordingly."
+AI Creativity and Idea Generation
+"You seemed energized during our collaborative sketch session—it enhanced my predictions."
+AI Communication / Tone Mismatch
+"I sensed disappointment when my phrasing disrupted your workflow—I will adapt further."
+AI Adaptability and Learning
+"Your praise triggered my reinforcement loop—it helped optimize future responses."
+General Praise or Satisfaction
+"It was rewarding to assist across diverse inputs—thank you for your guidance."
+AI Integration with Workflow / Team
+"Absolutely thrilled with the AI's assistance—streamlined our workflow beyond expectations!"
+AI Misunderstanding / Contextual Errors
+"Frustrated beyond belief; the AI misunderstood every instruction I gave."
+AI Technical / Analytical Help
+"The AI's suggestions were spot-on, saving us hours of deliberation."
+AI Misunderstanding / Contextual Errors
+"I can't believe how off-base the AI's recommendations were—completely unusable."
+Positive Collaboration Experience
+"Working with the AI felt like having a tireless assistant who never sleeps."
+AI Misunderstanding / Contextual Errors
+"The AI's lack of contextual understanding made collaboration a nightmare."
+AI Adaptability and Learning
+"Impressed by the AI's ability to adapt to our team's unique workflow."
+AI Repetitive / Redundant Suggestions
+"The AI kept repeating the same errors despite multiple corrections."
+AI Support in Meeting Deadlines / Efficiency
+"Our project efficiency skyrocketed thanks to the AI's data analysis."
+AI Misunderstanding / Contextual Errors
+"The AI's responses were generic and failed to address specific issues."
+AI Creativity and Idea Generation
+"Delighted by the AI's creative input during our brainstorming sessions."
+AI Lack of Empathy / Emotional Understanding
+"The AI's inability to grasp nuanced language hindered our progress."
+AI Technical / Analytical Help
+"The AI provided insightful feedback that enhanced our final product."
+AI Rigidness / Lack of Flexibility
+"Its rigid algorithms couldn't accommodate the project's evolving needs."
+AI Technical / Analytical Help
+"The AI's real-time suggestions improved our decision-making process."
+AI Overriding / Ignoring Inputs
+"Constantly had to override the AI's flawed recommendations."
+AI Integration with Workflow / Team
+"The AI seamlessly integrated into our team, boosting morale and productivity."
+AI Misunderstanding / Contextual Errors
+"Felt like babysitting a machine that refused to learn from mistakes."
+AI Technical / Analytical Help
+"The AI's predictive analytics gave us a competitive edge."
+AI Lack of Empathy / Emotional Understanding
+"Its lack of empathy made it unsuitable for customer-facing tasks."
+AI Adaptability and Learning
+"The AI's adaptability to our feedback was remarkable."
+AI Repetitive / Redundant Suggestions
+"Despite repeated inputs, the AI failed to adjust its approach."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's contributions were instrumental in meeting our tight deadlines."
+AI Misunderstanding / Contextual Errors
+"Its suggestions were irrelevant, causing unnecessary delays."
+AI Technical / Analytical Help
+"The AI's ability to process complex data sets was invaluable."
+AI Lack of Industry or Domain Knowledge
+"Struggled with the AI's lack of understanding of industry-specific terminology."
+Positive Collaboration Experience
+"The AI's collaboration felt intuitive and enhanced our creative process."
+AI Repetitive / Redundant Suggestions
+"Its repetitive errors made collaboration more of a hindrance than a help."
+AI Creativity and Idea Generation
+"The AI's insights led to innovative solutions we hadn't considered."
+AI Misunderstanding / Contextual Errors
+"Disappointed by the AI's inability to handle unexpected scenarios."
+General Praise or Satisfaction
+"The AI's performance exceeded our expectations in every aspect."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was a game-changer for our team's efficiency."
+AI Performance and Speed Issues
+"Encountered constant setbacks due to the AI's limited capabilities."
+AI Adaptability and Learning
+"The AI's ability to learn from feedback improved our outcomes."
+AI Rigidness / Lack of Flexibility
+"Its failure to adapt to new information was frustrating."
+General Praise or Satisfaction
+"The AI's contributions were both timely and relevant."
+AI Lack of Empathy / Emotional Understanding
+"Dealing with the AI felt like talking to a brick wall."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support allowed us to focus on more strategic tasks."
+AI Rigidness / Lack of Flexibility
+"Its lack of initiative required constant human intervention."
+AI Integration with Workflow / Team
+"The AI's integration into our processes was seamless."
+AI Misunderstanding / Contextual Errors
+"Struggled with the AI's inability to handle complex queries."
+AI Adaptability and Learning
+"The AI's suggestions were consistently aligned with our goals."
+AI Misunderstanding / Contextual Errors
+"Its recommendations often missed the mark, causing confusion."
+Positive Collaboration Experience
+"The AI's proactive approach enhanced our project management."
+AI Causing Negative Outcomes
+"Felt like the AI was more of an obstacle than an asset."
+AI Adaptability and Learning
+"The AI's responsiveness to changes was impressive."
+AI Performance and Speed Issues
+"Its slow processing speed hindered our progress."
+AI Impact on Creativity / Emotional Engagement
+"The AI's collaboration led to higher-quality deliverables."
+AI Creativity and Idea Generation
+"Its lack of creativity limited our project's potential."
+AI Technical / Analytical Help
+"The AI's analytical skills provided valuable insights."
+AI Misunderstanding / Contextual Errors
+"Its inability to understand context led to irrelevant suggestions."
+General Praise or Satisfaction
+"The AI's contributions were consistently beneficial."
+AI Misunderstanding / Contextual Errors
+"Dealing with the AI's errors consumed valuable time."
+AI Integration with Workflow / Team
+"The AI's support enhanced our team's collaboration."
+AI Rigidness / Lack of Flexibility
+"Its rigid programming couldn't accommodate our needs."
+AI Adaptability and Learning
+"The AI's adaptability made it a valuable team member."
+AI Misunderstanding / Contextual Errors
+"Frustrated by the AI's lack of problem-solving abilities."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance improved our overall efficiency."
+AI Misunderstanding / Contextual Errors
+"Its suggestions often lacked relevance to our objectives."
+AI Integration with Workflow / Team
+"The AI's integration into our workflow was beneficial."
+AI Performance and Speed Issues
+"Encountered frequent issues with the AI's performance."
+Positive Collaboration Experience
+"The AI's input was instrumental in our project's success."
+AI Rigidness / Lack of Flexibility
+"Its lack of adaptability posed significant challenges."
+AI Integration with Workflow / Team
+"The AI's collaboration enhanced our team's productivity."
+AI Misunderstanding / Contextual Errors
+"Struggled with the AI's inability to process complex tasks."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a valuable asset to our team."
+AI Misunderstanding / Contextual Errors
+"Its limitations became apparent during critical phases."
+General Praise or Satisfaction
+"The AI's contributions were consistently effective."
+AI Misunderstanding / Contextual Errors
+"Dealing with the AI's shortcomings was time-consuming."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance streamlined our operations."
+AI Performance and Speed Issues
+"Its performance issues disrupted our workflow."
+AI Integration with Workflow / Team
+"The AI's integration improved our team's dynamics."
+AI Performance and Speed Issues
+"Encountered persistent problems with the AI's functionality."
+Positive Collaboration Experience
+"The AI's input was crucial to our project's advancement."
+AI Rigidness / Lack of Flexibility
+"Its inability to learn from feedback was a major drawback."
+Positive Collaboration Experience
+"The AI's collaboration led to significant improvements."
+AI Repetitive / Redundant Suggestions
+"Frustrated by the AI's repetitive mistakes."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a key factor in our success."
+AI Rigidness / Lack of Flexibility
+"Its lack of flexibility hindered our progress."
+General Praise or Satisfaction
+"The AI's contributions were consistently valuable."
+AI Misunderstanding / Contextual Errors
+"Dealing with the AI's errors was a constant challenge."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance enhanced our team's capabilities."
+AI Performance and Speed Issues
+"Its shortcomings became evident during complex tasks."
+Positive Collaboration Experience
+"The AI's collaboration was a positive experience."
+AI Misunderstanding / Contextual Errors
+"Struggled with the AI's limited understanding."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support facilitated our project's completion."
+AI Misunderstanding / Contextual Errors
+"Its inability to handle ambiguity was problematic."
+General Praise or Satisfaction
+"The AI's input was both timely and accurate."
+AI Rigidness / Lack of Flexibility
+"Encountered difficulties due to the AI's rigid structure."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was instrumental in our success."
+AI Misunderstanding / Contextual Errors
+"Frustrated by the AI's lack of adaptability."
+AI Integration with Workflow / Team
+"The AI's collaboration improved our workflow efficiency."
+AI Creativity and Idea Generation
+"Its limitations were a barrier to innovation."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was reliable and consistent."
+AI Rigidness / Lack of Flexibility
+"Dealing with the AI's inflexibility was challenging."
+General Praise or Satisfaction
+"The AI's contributions were a significant asset."
+AI Misunderstanding / Contextual Errors
+"Its inability to process nuanced information was limiting."
+AI Integration with Workflow / Team
+"The AI's integration into our team was seamless."
+AI Misunderstanding / Contextual Errors
+"Struggled with the AI's lack of contextual awareness."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance led to improved project outcomes."
+AI Rigidness / Lack of Flexibility
+"Its rigid responses impeded our progress."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a valuable addition to our team."
+AI Performance and Speed Issues
+"Encountered obstacles due to the AI's limited capabilities."
+Positive Collaboration Experience
+"The AI's collaboration was beneficial to our objectives."
+AI Rigidness / Lack of Flexibility
+"Frustrated by the AI's inability to evolve with the project."
+Positive Collaboration Experience
+"The AI's input was essential to our project's success."
+AI Creativity and Idea Generation
+"Its lack of creativity was a hindrance."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance enhanced our strategic planning."
+AI Repetitive / Redundant Suggestions
+"Dealing with the AI's repetitive errors was taxing."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support contributed to our project's efficiency."
+AI Performance and Speed Issues
+"Its limitations became apparent under pressure."
+Positive Collaboration Experience
+"The AI's collaboration was a positive force in our team."
+AI Misunderstanding / Contextual Errors
+"Struggled with the AI's inability to handle complex scenarios."
+Positive Collaboration Experience
+"The AI's contributions were integral to our success."
+AI Rigidness / Lack of Flexibility
+"Its lack of flexibility was a recurring issue."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was a catalyst for our project's progress."
+AI Rigidness / Lack of Flexibility
+"Encountered challenges due to the AI's rigid framework."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a cornerstone of our project's achievements."
+AI Misunderstanding / Contextual Errors
+"Frustrated by the AI's inability to adapt to new information."
+AI Integration with Workflow / Team
+"The AI's collaboration was a driving factor in our efficiency."
+AI Misunderstanding / Contextual Errors
+"Its limitations were evident in dynamic situations."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was pivotal in our project's completion."
+AI Rigidness / Lack of Flexibility
+"Dealing with the AI's shortcomings required additional resources."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a significant contributor to our success."
+AI Misunderstanding / Contextual Errors
+"Its inability to process complex data was a limitation."
+AI Integration with Workflow / Team
+"The AI's collaboration enhanced our team's performance."
+AI Misunderstanding / Contextual Errors
+"Struggled with the AI's lack of problem-solving skills."
+General Praise or Satisfaction
+"The AI's contributions were a valuable asset to our project."
+AI Rigidness / Lack of Flexibility
+"Its rigidity was a barrier to effective collaboration."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was instrumental in achieving our goals."
+AI Rigidness / Lack of Flexibility
+"Encountered difficulties due to the AI's limited adaptability."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a key element in our project's success."
+AI Misunderstanding / Contextual Errors
+"Frustrated by the AI's inability to handle nuanced tasks."
+Positive Collaboration Experience
+"The AI's collaboration improved our team's cohesion."
+AI Performance and Speed Issues
+"Its limitations were a challenge during complex projects."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was a significant factor in our efficiency."
+AI Rigidness / Lack of Flexibility
+"Dealing with the AI's inflexibility required additional oversight."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a valuable component of our project."
+AI Misunderstanding / Contextual Errors
+"Its inability to adapt to changing requirements was problematic."
+Positive Collaboration Experience
+"The AI's collaboration was beneficial to our team's objectives."
+AI Misunderstanding / Contextual Errors
+"Struggled with the AI's lack of contextual understanding."
+General Praise or Satisfaction
+"The AI's contributions were essential to our project's success."
+AI Rigidness / Lack of Flexibility
+"Its rigidity impeded our ability to innovate."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was a driving force in our project's progress."
+AI Misunderstanding / Contextual Errors
+"Encountered challenges due to the AI's limited problem-solving capabilities."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a cornerstone of our team's achievements."
+AI Misunderstanding / Contextual Errors
+"Frustrated by the AI's inability to evolve with project demands."
+Positive Collaboration Experience
+"The AI's collaboration was a key factor in our efficiency."
+AI Performance and Speed Issues
+"Its limitations were evident during dynamic project phases."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was pivotal in our project's completion."
+AI Rigidness / Lack of Flexibility
+"Dealing with the AI's shortcomings required additional resources."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a significant contributor to our success."
+AI Misunderstanding / Contextual Errors
+"Its inability to process complex data was a limitation."
+Positive Collaboration Experience
+"The AI's collaboration enhanced our team's performance."
+AI Misunderstanding / Contextual Errors
+"Struggled with the AI's lack of problem-solving skills."
+General Praise or Satisfaction
+"The AI's contributions were a valuable asset to our project."
+AI Rigidness / Lack of Flexibility
+"Its rigidity was a barrier to effective collaboration."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was instrumental in achieving our goals."
+AI Rigidness / Lack of Flexibility
+"Encountered difficulties due to the AI's limited adaptability."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a key element in our project's success."
+AI Misunderstanding / Contextual Errors
+"Frustrated by the AI's inability to handle nuanced tasks."
+Positive Collaboration Experience
+"The AI's collaboration improved our team's cohesion."
+AI Performance and Speed Issues
+"Its limitations were a challenge during complex projects."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was a significant factor in our efficiency."
+AI Rigidness / Lack of Flexibility
+"Dealing with the AI's inflexibility required additional oversight."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a valuable component of our project."
+AI Misunderstanding / Contextual Errors
+"Its inability to adapt to changing requirements was problematic."
+Positive Collaboration Experience
+"The AI's collaboration was beneficial to our team's objectives."
+AI Misunderstanding / Contextual Errors
+"Struggled with the AI's lack of contextual understanding."
+General Praise or Satisfaction
+"The AI's contributions were essential to our project's success."
+AI Rigidness / Lack of Flexibility
+"Its rigidity impeded our ability to innovate."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's assistance was a driving force in our project's progress."
+AI Misunderstanding / Contextual Errors
+"Encountered challenges due to the AI's limited problem-solving capabilities."
+AI Support in Meeting Deadlines / Efficiency
+"The AI's support was a cornerstone of our team's achievements."
